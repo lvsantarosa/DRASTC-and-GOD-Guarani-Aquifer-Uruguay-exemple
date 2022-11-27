@@ -9,5 +9,4 @@ https://drive.google.com/drive/folders/19dv7DrLWEw2Klx9E4J0gpucYl3EIWazM?usp=sha
 
 Santarosa, L. V., Gastmans, D., Sitolini, T. P., Kirchheim, R. E., Betancur, S. B., de Oliveira, M. E. D., Campos, J. C. V.
 ; Manzione, R. L. (2021). Assessment of groundwater recharge along the Guarani aquifer system outcrop zone in São Paulo State (Brazil): 
-an important tool towards integrated management. <i>Environmental Earth Sciences</i>, <i>80</i>(3), 1–20. 
-https://doi.org/10.1007/s12665-021-09382-3</div>
+an important tool towards integrated management. Environmental Earth Sciences, 80 (3), 1–20. https://doi.org/10.1007/s12665-021-09382-3
