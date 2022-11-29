@@ -1,3 +1,5 @@
+# Aquifer vulnerability with GOD and DRASTIC for Guarany Aquifer Uruguay
+
 This work was carried out as a demand for a project to identify the vulnerability of the recharge area in the recharge zone of the Guarani aquifer in Uruguay. The study adapted the information from the soils to replace the lack of information on the hydraulic conductivity of the aquifers and the recharge was obtained by the water balance based on remote sensing data published by Santarosa et al. 2021.
 
 It was an exercise in data processing in R to facilitate constant adjustments to variables and streamline the release of results to the team.
